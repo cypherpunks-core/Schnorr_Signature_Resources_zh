@@ -4,7 +4,7 @@
 
 比特幣開發者、密碼學家、Blockstream研究主管安德魯·波爾斯特拉(Andrew Poelstra)表示，“未來幾周”可能會將一份正式的比特幣[Schnorr簽名](https://www.8btc.com/article/374308)升級提案提交給比特幣開發者郵件列表。Poelstra補充說，比特幣網路可能會在2020年實現Schnorr簽名。這些聲明是幾天前他在彼得·麥考馬克(Peter McCormack)主持的“What Bitcoin Did播客上發表的。
 
-[![QQ截圖20190319104442_副本|984x590](https://cdn.8btc.com/wp-content/uploads/2019/03/201903190245431003.jpg)](https://cdn.8btc.com/wp-content/uploads/2019/03/201903190245431003.jpg)
+[![QQ截圖20190319104442\_副本|984x590](https://cdn.8btc.com/wp-content/uploads/2019/03/201903190245431003.jpg)](https://cdn.8btc.com/wp-content/uploads/2019/03/201903190245431003.jpg)
 
 圖片來源：[pexels](https://www.pexels.com/photo/office-working-app-computer-97077/)
 
@@ -22,10 +22,8 @@ Schnorr簽名可以將任意數量的交易和/或私鑰持有者“聚合”到
 
 這是因為比特幣目前的多簽名機制，即更為繁瑣的Pay-to-ScriptHash (P2SH)，需要一種特殊的地址格式，這種格式對於區塊鏈觀測器而言就像一個巨大的訊號旗，能夠輕易被分辨出來，表明某筆多重簽名交易已經完成。不過，Schnorr下的簽名聚合將使此類交易實際上不可見。
 
- 
-
 ## Schnorr簽名技術準備就緒
 
 在播客中，同時也是Grin隱私幣主要開發者之一的Poelstra表示，Blockstream“幾乎已經為Bitoin Core編寫好了(Schnorr)程式碼”。事實上，Schnorr簽名升級的草案已經在[網上](https://github.com/sipa/bips/blob/bip-schnorr/bip-schnorr.mediawiki)公佈了。
 
-他說，這段程式碼將被納入下一個比特幣核心版本（不被啟用）中，並在“討論……實際的啟用參數”之後獲得批准，然後正式啟用。
+他說，這段程式碼將被納入下一個Bitcoin Core版本（不被啟用）中，並在“討論……實際的啟用參數”之後獲得批准，然後正式啟用。

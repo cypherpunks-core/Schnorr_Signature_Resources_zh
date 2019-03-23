@@ -39,7 +39,7 @@
     We present an efficient interactive identification scheme and a related signature scheme that are based on discrete logarithms and which are particularly suited for smart cards. Previous cryptoschemes, based on the discrete logarithm, have been proposed by El Gamal (1985), Chaum, Evertse, Graaf (1988), Beth (1988) and Günter (1989). The new scheme comprises the following novel features.
 
 
--   [How To Prove Yourself: Practical Solutions to Identification and Signature Problems](http://sci-hub.tw/https://link.springer.com/chapter/10.1007%2F3-540-47721-7_12)
+-   [How To Prove Yourself: Practical Solutions to Identification and Signature Problems](http://sci-hub.tw/https://link.springer.com/chapter/10.1007%2F3-540-47721-7_12)  
     In this paper we describe simple identification and signature schemes which enable any user to prove his identity and the authenticity of his messages to any other user without shared or public keys. The schemes are provably secure against any known or chosen message attack if factoring is difficult, and typical implementations require only 1% to 4% of the number of modular multiplications required by the RSA scheme. Due to their simplicity, security and speed, these schemes are ideally suited for microprocessor-based devices such as smart cards, personal computers, and remote control systems.
 
 

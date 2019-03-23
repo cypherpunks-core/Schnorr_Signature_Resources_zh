@@ -1,5 +1,5 @@
 # Schnorr簽名資源 | Schnorr Signature Resources
-
+![](https://img.shields.io/badge/Powered%20by-Chen%20Po%20Wei-blue.svg)     
 ![](image.png)
 
 ## Medium

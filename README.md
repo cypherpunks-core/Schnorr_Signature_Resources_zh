@@ -1,5 +1,11 @@
 # Schnorr簽名資源 | Schnorr Signature Resources
 
+## Ethfans
+
+-   [比特幣下一次升級要包含的Taproot究竟是什麼](article/比特幣下一次升級要包含的Taproot究竟是什麼.md)
+
+## 8btc
+
 -   [Schnorr簽名的前世今生：為什麼說比特幣的隱私性是不可避免的？](article/Schnorr簽名的前世今生：為什麼說比特幣的隱私性是不可避免的？.md)
 -   [MuSig : 比特幣可用的Schnorr簽名方案](article/MuSig:比特幣可用的Schnorr簽名方案.md)
 -   [比特幣再迎重大技術突破，Schnorr簽名程式碼正式開放測試](article/比特幣再迎重大技術突破，Schnorr簽名程式碼正式開放測試.md)

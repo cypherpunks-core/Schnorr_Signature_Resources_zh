@@ -1,6 +1,6 @@
 ### Ethereum Casper - 認識 BLS signature
 
-- [7月 27, 2018](http://kimiwublog.blogspot.com/2018/07/ethereum-casper-bls-signature.html)
+\- [7月 27, 2018](http://kimiwublog.blogspot.com/2018/07/ethereum-casper-bls-signature.html)
 
 最近重新追了一下Ethereum Casper的進展，發現到好多新東西（應該是之前看得太表面 ＸＤ），Casper跟sharding會綁一起，然後又有個beacon chain，zk-STARK（zk-SNARK的升級版）也來湊一腳，短時間有點難消化，有興趣的人可以google上面幾個keyword。
 
@@ -31,4 +31,4 @@ e(P, H(m)) = e(G, S)
 
 最後！這個是Ethereum中期的簽章方案，長期的預計會使用zk-STARK，zk-STARK的設計是可以抗量子攻擊，但目前資料量約在100kB左右，還會針對Ethereum做最佳化。
 
-附：這有[Ethereum meeting 討論BLS的影片](https://www.youtube.com/watch?v=DpV0Hh9YajU&amp;index=5&amp;list=PLaM7G4Llrb7zEHK2UzQo3kxadPyeUy2sZ)
+附：這有[Ethereum meeting 討論BLS的影片](https://www.youtube.com/watch?v=DpV0Hh9YajU&index=5&list=PLaM7G4Llrb7zEHK2UzQo3kxadPyeUy2sZ)

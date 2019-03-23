@@ -2,7 +2,7 @@
 
 ## Medium
 
--   [Ethereum Casper - 認識 BLS signature](EthereumCasper-認識BLSsignature.md)
+-   [Ethereum Casper - 認識 BLS signature](article/EthereumCasper-認識BLSsignature.md)
 
 ## Ethfans
 

@@ -11,6 +11,7 @@ Schnorr Signatures 是一個聚合多個簽名演算法，主要為了減少m-n�
 -   [Schnorr Signatures: An Overview](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Schnorr-Signatures--An-Overview.md?fbclid=IwAR204wd8i2rsX9QQnWyIl93_e8-UvyHBoeitsKPIEUkmvE1kGL4WgsGlCgw)
 -   [Bitcoin Q&A: Schnorr signatures and the privacy roadmap](https://www.youtube.com/watch?v=JeJzwZgxF50)-aantonop
 -   [Schnorr Signatures & The Inevitability of Privacy in Bitcoin](https://medium.com/digitalassetresearch/schnorr-signatures-the-inevitability-of-privacy-in-bitcoin-b2f45a1f7287)
+-   [Unpacking Schnorr Signatures: Blockstream’s MuSig to Improve Bitcoin Transactions?](https://cointelegraph.com/news/unpacking-schnorr-signatures-blockstreams-musig-to-improve-bitcoin-transactions)
 
 ## Medium
 

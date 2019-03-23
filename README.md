@@ -1,5 +1,9 @@
 # Schnorr簽名資源 | Schnorr Signature Resources
 
+## Medium
+
+-   [Ethereum Casper - 認識 BLS signature](<Ethereum Casper - 認識 BLS signature.md>)
+
 ## Ethfans
 
 -   [比特幣下一次升級要包含的Taproot究竟是什麼](article/比特幣下一次升級要包含的Taproot究竟是什麼.md)

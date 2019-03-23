@@ -1,6 +1,15 @@
 # Schnorr簽名資源 | Schnorr Signature Resources
-![](https://img.shields.io/badge/Powered%20by-Chen%20Po%20Wei-blue.svg)     
+
+![](https://img.shields.io/badge/Powered%20by-Chen%20Po%20Wei-blue.svg)
 ![](image.png)
+
+-   [Bitcoin Q&A: Schnorr signatures and the privacy roadmap](https://www.youtube.com/watch?v=JeJzwZgxF50)-aantonop
+
+## 論文
+
+-   [Hash function requirements for Schnorr signatures](paper/Hash-Function-Requirements-for-Schnorr-Signatures.pdf)
+    We provide two necessary conditions on hash functions for the Schnorr signature scheme to be secure, assuming compact group representations such as those which occur in elliptic curve groups. We also show, via an argument in the generic group model, that these conditions are sufficient. Our hash function security requirements are variants of the standard notions of preimage and second preimage resistance. One of them is in fact equivalent to the Nostradamus attack by Kelsey and Kohno (Eurocrypt 2006), and, when considering keyed compression functions, both are closely related to the ePre and eSec notions by Rogaway and Shrimpton (FSE 2004).
+    Our results have a number of interesting implications in practice. First, since security does not rely on the hash function being collision resistant, Schnorr signatures can still be securely instantiated with SHA-1/SHA-256, unlike DSA signatures. Second, we conjecture that our properties require O(2n) work to solve for a hash function with n-bit output, thereby allowing the use of shorter hashes and saving twenty-five percent in signature size. And third, our analysis does not reveal any significant difference in hardness between forging signatures and computing discrete logarithms, which plays down the importance of the loose reductions in existing random-oracle proofs, and seems to support the use of “normal-size” groups.
 
 ## Medium
 

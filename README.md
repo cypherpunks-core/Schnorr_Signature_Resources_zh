@@ -6,7 +6,11 @@
 Schnorr Signatures 是一個聚合多個簽名演算法，主要為了減少m-n多簽名的size，不管有多少個使用者，都可以用一個簽名來解決，從而減少區塊的大小。另外一方面這也縮短了簽名校驗的時間，因為多簽名情況下，只需要驗證一個簽名就可以。同時也可以一定程度解決匿名性，多簽名中隱藏了單個使用者的資訊。由於專利的問題，這個演算法並沒有標準實現（目前專利保護已經到期），有可能多語言之間互通還有些挑戰。Schnorr Signatures也是一種橢圓簽名演算法，不能解決量子計算攻擊。
 <https://bitcoincore.org/en/2017/03/23/schnorr-signature-aggregation/> by 三眼世界
 
+2008年專利過後的區塊鏈新專案不少使用Schnorr Signature簽名，例如monero, corda, hyperledger iroha, chain等。
+
+-   [Schnorr Signatures: An Overview](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Schnorr-Signatures--An-Overview.md?fbclid=IwAR204wd8i2rsX9QQnWyIl93_e8-UvyHBoeitsKPIEUkmvE1kGL4WgsGlCgw)
 -   [Bitcoin Q&A: Schnorr signatures and the privacy roadmap](https://www.youtube.com/watch?v=JeJzwZgxF50)-aantonop
+-   [Schnorr Signatures & The Inevitability of Privacy in Bitcoin](https://medium.com/digitalassetresearch/schnorr-signatures-the-inevitability-of-privacy-in-bitcoin-b2f45a1f7287)
 
 ## Medium
 

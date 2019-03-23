@@ -37,6 +37,7 @@
     Our results have a number of interesting implications in practice. First, since security does not rely on the hash function being collision resistant, Schnorr signatures can still be securely instantiated with SHA-1/SHA-256, unlike DSA signatures. Second, we conjecture that our properties require O(2n) work to solve for a hash function with n-bit output, thereby allowing the use of shorter hashes and saving twenty-five percent in signature size. And third, our analysis does not reveal any significant difference in hardness between forging signatures and computing discrete logarithms, which plays down the importance of the loose reductions in existing random-oracle proofs, and seems to support the use of “normal-size” groups.
 
 -   [Efficient Identification and Signatures for Smart Cards](http://sci-hub.tw/https://link.springer.com/chapter/10.1007%2F0-387-34805-0_22)
+
     We present an efficient interactive identification scheme and a related signature scheme that are based on discrete logarithms and which are particularly suited for smart cards. Previous cryptoschemes, based on the discrete logarithm, have been proposed by El Gamal (1985), Chaum, Evertse, Graaf (1988), Beth (1988) and Günter (1989). The new scheme comprises the following novel features.
 
 

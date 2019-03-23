@@ -1,5 +1,7 @@
 # Schnorr簽名資源 | Schnorr Signature Resources
 
+![](image.png)
+
 ## Medium
 
 -   [Ethereum Casper - 認識 BLS signature](article/EthereumCasper-認識BLSsignature.md)

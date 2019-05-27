@@ -1,5 +1,5 @@
 # 提升交易速度，降低手續費，Schnorr簽名即將成為比特幣的重要技術
-
+來源：https://www.8btc.com/author/40583
 [Captain Hiro ](https://www.8btc.com/author/40583)2018-02-13 16:37釋出在[ 比特幣 ](javascript:;) 11066
 
 > “To the moon！”

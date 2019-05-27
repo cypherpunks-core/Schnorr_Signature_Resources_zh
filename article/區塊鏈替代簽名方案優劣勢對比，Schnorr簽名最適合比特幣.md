@@ -1,5 +1,5 @@
 # 區塊鏈替代簽名方案優劣勢對比，Schnorr簽名最適合比特幣
-
+來源：https://www.8btc.com/author/3708
 [灑脫喜 ](https://www.8btc.com/author/3708)2019-02-13 12:23釋出在[ 技術指南 ](javascript:;) 70532
 
 作者：Leland Lee（獨立）和Dev Ozha（加州大學伯克利分校/前Tendermint）

@@ -1,5 +1,5 @@
 # 比特幣下一次升級要包含的Taproot究竟是什麼
-
+來源：hhttps://www.8btc.com/article/351969
 [BitcoinMagazine](https://ethfans.org/bitcoinmagazine)   |   25. Feb, 2019   |   871 次閱讀
 
 ![img](https://upyun-assets.ethfans.org/uploads/photo/image/81ea6b94a36a4c88a10a4c4c26e80498.jpg)

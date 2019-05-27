@@ -1,5 +1,5 @@
 # 多名開發者聯合釋出Schnorr多重簽名方案新論文，擴容問題都不是事兒
-
+來源：https://www.8btc.com/author/14244
 [kyle ](https://www.8btc.com/author/14244)2018-01-19 11:32釋出在[ 比特幣 ](javascript:;) 13721
 
 一份新的針對Schnorr多重簽名的研究論文剛剛釋出——《[Schnorr多重簽名在比特幣的應用](http://8btc.com/doc-view.html?d=1759)》（[幣文庫下載](http://8btc.com/doc-view.html?d=1759)），由多位著名的比特幣開發者親自撰寫。

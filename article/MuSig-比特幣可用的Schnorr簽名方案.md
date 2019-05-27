@@ -1,5 +1,5 @@
 # MuSig : 比特幣可用的Schnorr簽名方案
-
+來源：https://www.8btc.com/author/3708    
 [灑脫喜 ](https://www.8btc.com/author/3708)2019-02-19 14:48釋出在[ 技術指南 ](javascript:;) 83979
 
 在2018年，區塊鏈協議公司Blockstream的密碼學家Gregory Maxwell、Pieter Wuille等人提出了一種名為MuSig的Schnorr簽名方案，理論上可替代當前比特幣的ECDSA簽名演算法，而在今日，Blockstream已經把MuSig從一篇學術論文，轉變成了可用的程式碼，並進行了開源。

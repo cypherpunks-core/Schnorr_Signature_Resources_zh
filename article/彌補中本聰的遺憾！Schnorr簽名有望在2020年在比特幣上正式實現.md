@@ -1,5 +1,5 @@
 # 彌補中本聰的遺憾！Schnorr簽名有望在2020年在比特幣上正式實現
-
+來源：https://www.8btc.com/author/14244
 [kyle ](https://www.8btc.com/author/14244)2019-03-19 11:08釋出在[ 比特幣 ](javascript:;)[獨家 ](javascript:;) 56659
 
 比特幣開發者、密碼學家、Blockstream研究主管安德魯·波爾斯特拉(Andrew Poelstra)表示，“未來幾周”可能會將一份正式的比特幣[Schnorr簽名](https://www.8btc.com/article/374308)升級提案提交給比特幣開發者郵件列表。Poelstra補充說，比特幣網路可能會在2020年實現Schnorr簽名。這些聲明是幾天前他在彼得·麥考馬克(Peter McCormack)主持的“What Bitcoin Did播客上發表的。

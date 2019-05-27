@@ -1,5 +1,5 @@
 # 比特幣再迎重大技術突破，Schnorr簽名程式碼正式開放測試
-
+來源：https://www.8btc.com/author/14244    
 [kyle ](https://www.8btc.com/author/14244)2019-02-19 11:49釋出在[ 比特幣 ](javascript:;) 96969
 
 Schnorr簽名，一種可能是比特幣即將到來的最大升級之一的程式碼更改，通過比特幣技術初創公司Blockstream，這種簽名技術現在已經從一個理論想法變成了真正的程式碼。

@@ -1,5 +1,5 @@
 # 隔離見證（SegWit）之後，比特幣有望迎來最重磅升級——Schnorr
-
+來源：https://www.8btc.com/author/14244
 [kyle ](https://www.8btc.com/author/14244)2018-07-16 15:26釋出在[ 比特幣 ](javascript:;) 18549
 
 Schnorr來了...

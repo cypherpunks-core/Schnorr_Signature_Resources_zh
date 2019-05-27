@@ -1,5 +1,5 @@
 # 學術向丨Schnorr簽名方案和BLS簽名方案的全面對比
-
+來源：https://www.8btc.com/author/3708
 [灑脫喜 ](https://www.8btc.com/author/3708)2019-02-13 17:41釋出在[ 鏈頭條 ](javascript:;)[技術指南 ](javascript:;) 92796
 
 前言：在前一篇文章《[區塊鏈替代簽名方案優劣勢對比](https://www.8btc.com/article/359451)》中，譯者簡單介紹了幾種替代簽名方案，其中Schnorr簽名方案和BLS簽名方案最受關注，前者也是目前最大可能應用於比特幣的技術方案，因此我們有必要更深入地瞭解它們。

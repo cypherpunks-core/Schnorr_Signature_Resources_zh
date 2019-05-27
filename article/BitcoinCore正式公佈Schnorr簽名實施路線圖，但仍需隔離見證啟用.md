@@ -1,5 +1,5 @@
 # Bitcoin Core正式公佈Schnorr簽名實施路線圖，但仍需隔離見證啟用
-
+來源：https://www.8btc.com/author/14244    
 [kyle ](https://www.8btc.com/author/14244)2017-03-24 10:20釋出在[ 比特幣 ](javascript:;) 19906
 
 Bitcoin Core開發者今日公佈了[新的技術發展路線圖](https://bitcoincore.org/en/2017/03/23/schnorr-signature-aggregation/)，計劃將目前的數字簽名演算法過渡到一種更加先進的替代性選擇。

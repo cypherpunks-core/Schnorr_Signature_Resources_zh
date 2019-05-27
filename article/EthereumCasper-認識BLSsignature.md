@@ -1,5 +1,5 @@
 ### Ethereum Casper - 認識 BLS signature
-
+來源：http://kimiwublog.blogspot.com/2018/07/ethereum-casper-bls-signature.html    
 \- [7月 27, 2018](http://kimiwublog.blogspot.com/2018/07/ethereum-casper-bls-signature.html)
 
 最近重新追了一下Ethereum Casper的進展，發現到好多新東西（應該是之前看得太表面 ＸＤ），Casper跟sharding會綁一起，然後又有個beacon chain，zk-STARK（zk-SNARK的升級版）也來湊一腳，短時間有點難消化，有興趣的人可以google上面幾個keyword。
